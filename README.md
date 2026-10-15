@@ -296,7 +296,4 @@ In quantum error detection via post-selection, aggressive checks or high physica
 3. **Partial Shot Retention**:
    - In normal operational regimes, retained shots and discarded shots sum identically to total shots (`N_retained + N_discarded == N_total`), with `0 < η < 1`.
 
----
 
-## License & Acknowledgements
-Built for the **Qiskit Fall Fest 2026 Advanced Track Hackathon**. Powered by **Qiskit**, **Qiskit Aer**, and **qiskit-paulice** by IBM Quantum.
