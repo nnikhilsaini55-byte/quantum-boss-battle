@@ -296,4 +296,31 @@ In quantum error detection via post-selection, aggressive checks or high physica
 3. **Partial Shot Retention**:
    - In normal operational regimes, retained shots and discarded shots sum identically to total shots (`N_retained + N_discarded == N_total`), with `0 < η < 1`.
 
+---
 
+## 12. AI Usage and Acknowledgment
+
+AI tools were used as development assistants during the development of **Quantum Boss Battle**. AI assistance supported selected coding tasks, debugging, code refinement, user-interface improvements, and project documentation.
+
+### How AI Was Used
+
+- **Coding Assistance:** Helped explore implementation approaches and refine selected parts of the code.
+- **Debugging and Troubleshooting:** Assisted in identifying software issues and suggesting possible solutions.
+- **UI/UX Improvements:** Supported improvements to the game's interface, visual presentation, and player experience.
+- **Documentation:** Assisted in structuring and explaining project documentation, setup instructions, and technical concepts.
+
+### Human Review and Responsibility
+
+AI-generated suggestions were reviewed as part of the development process. The project team is responsible for understanding, reviewing, testing, and validating the final implementation and for explaining the project during evaluation.
+
+### Quantum Computing Integrity
+
+AI assistance does not replace the project's quantum simulation or scientific evaluation. Quantum metrics—including raw fidelity, post-selected fidelity, retained-shot fraction, discarded shots, and circuit overhead—must be obtained from the implemented Qiskit simulation and its documented configuration, rather than manually assigned values.
+
+Reported experimental results should be reproducible by running the submitted code with the specified dependencies and configuration.
+
+### Transparency Statement
+
+AI was used as a development aid, not as a substitute for understanding the project's quantum error-detection concepts. The team remains responsible for the final implementation, the accuracy of scientific claims, and the reproducibility of reported results.
+
+---
