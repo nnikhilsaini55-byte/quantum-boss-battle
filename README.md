@@ -325,6 +325,6 @@ AI was used as a development aid, not as a substitute for understanding the proj
 
 ---
 ### My Report and Video link
-[read the full project report](./Report/Quantum_Boss_Battle_Technical_Report.pdf)
+[Read the full project report](./Report/Quantum_Boss_Battle_Technical_Report.pdf)
 
-[video link](https://youtu.be/jNifftDm9-I?si=9-vxBb8bspGnR5Aw)
+[Video Link](https://youtu.be/jNifftDm9-I?si=9-vxBb8bspGnR5Aw)
