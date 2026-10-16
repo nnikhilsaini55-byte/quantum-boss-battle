@@ -324,3 +324,7 @@ Reported experimental results should be reproducible by running the submitted co
 AI was used as a development aid, not as a substitute for understanding the project's quantum error-detection concepts. The team remains responsible for the final implementation, the accuracy of scientific claims, and the reproducibility of reported results.
 
 ---
+### My Report and Video link
+[read the full project report](./Report/Quantum_Boss_Battle_Technical_Report.pdf)
+
+[video link](https://youtu.be/jNifftDm9-I?si=9-vxBb8bspGnR5Aw)
